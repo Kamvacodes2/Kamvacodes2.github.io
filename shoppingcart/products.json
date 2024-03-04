@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Polaroid camera",
+        "price": 400,
+        "image": "image/img1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "HeadPhones",
+        "price": 200,
+        "image": "image/img2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Sun-glasses",
+        "price": 150,
+        "image": "image/img3.jpg"
+    }
+]
