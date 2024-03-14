@@ -1,0 +1,182 @@
+body {
+    font-family: Arial;
+}
+p {
+    font-size: 2.5em;
+}
+.eye {
+    background-color:rgba(0, 255, 221, 0.699);
+    width:30%;
+    height:30%;
+    border-radius: 50%;
+}
+.arm {
+    background-color: #cacaca;
+    position: absolute;
+    top: 35%;
+    width: 3%;
+    height: 40%;
+}
+
+#head {
+    width:30%;
+    height:30%;
+    border-radius: 15%;
+    background-color: #dadada;
+    position: absolute;
+    left: 33%;
+    top: 5%;
+}
+#righteye {
+    position: absolute;
+    left: 20%;
+    top: 20%;
+}
+#lefteye {
+    position: absolute;
+    left: 60%;
+    top: 30%;
+}
+#nose {
+    position: absolute;
+    left: 45%;
+    top: 50%;
+    width: 10%;
+    height: 10%;
+    background-color: rgb(128, 206, 39);
+    border-radius: 50%;
+}
+#mouthc {
+    position: absolute;
+    width: 30%;
+    height: 30%;
+    left: 35%;
+    top: 50%;
+    background-color: #dadada;
+    border-radius: 50%;
+}
+#mouth {
+    position: absolute;
+    width: 30%;
+    height: 30%;
+    left: 35%;
+    top: 65%;
+    background-color: pink;
+    border-radius: 50%;
+}
+#body {
+    position: absolute;
+    left: 25%;
+    top: 35%;
+    width: 45%;
+    height: 55%;
+    background-color: #dadada;
+    text-align:center;
+    padding-top: 30px;
+    border-radius: 6%;
+}
+
+#rightarm {
+    position:absolute;
+    left:20%;
+    width: 26%;
+    border-radius: 10%;
+}
+#leftarm {
+    position: absolute;
+    left: 68%;
+    width: 27%;
+    height: 5%;
+    border-radius: 10%;
+
+}
+
+
+
+
+
+/**
+* ? MY CHANGES TO DOUGLAS
+**/
+/* body {
+    font-family: "Comic Sans MS", cursive, sans‐serif;
+}
+p {
+    font-size: 2.5em;
+    color:white;
+}
+.eye {
+    background-color:brown;
+    width:30%;
+    height:30%;
+    border-radius: 50%;
+}
+.arm {
+    background-color: #cacaca;
+    position: absolute;
+    top: 35%;
+    width: 3%;
+    height: 40%;
+}
+
+#head {
+    width:30%;
+    height:30%;
+    border-radius: 15%;
+    background-color: #dadada;
+    position: absolute;
+    left: 33%;
+    top: 5%;
+}
+#righteye {
+    position: absolute;
+    left: 10%;
+    top: 10%;
+    background-color: rgb(74, 207, 57);
+}
+#lefteye {
+    position: absolute;
+    left: 60%;
+    top: 20%;
+}
+#nose {
+    position: absolute;
+    left: 45%;
+    top: 50%;
+    width: 10%;
+    height: 10%;
+    background-color: black;
+}
+#mouth {
+    position: absolute;
+    width: 65%;
+    height: 15%;
+    left: 20%;
+    top: 70%;
+    background-color: red;
+}
+#body {
+    position: absolute;
+    left: 25%;
+    top: 35%;
+    width: 45%;
+    height: 55%;
+    background-color: rgba(248, 66, 66, 0.849);
+    text-align:center;
+    padding-top: 30px;
+}
+
+#rightarm {
+    position:absolute;
+    left:20%;
+    width: 5%;
+    background-color: #1ca36f;
+    
+}
+#leftarm {
+    position: absolute;
+    left: 70%;
+    width: 27%;
+    height: 5%;
+
+} */
